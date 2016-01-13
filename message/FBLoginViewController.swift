@@ -11,8 +11,10 @@ import FBSDKLoginKit
 
 
 
+
 class FBLoginViewController: UIViewController  {
     
+    @IBOutlet weak var fbLoginBu: FBSDKLoginButton!
     
     
     override func viewDidLoad() {

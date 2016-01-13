@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		9101609B1C44A73F00206C93 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9101609A1C44A73F00206C93 /* Default-568h@2x.png */; };
 		9101609F1C44A9CB00206C93 /* FBLoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9101609E1C44A9CB00206C93 /* FBLoginViewController.swift */; };
 		91193A6A1C4350F2002E4206 /* MessageTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91193A691C4350F2002E4206 /* MessageTableViewController.swift */; };
 		91193A6C1C435210002E4206 /* Message.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91193A6B1C435210002E4206 /* Message.swift */; };
@@ -25,7 +24,6 @@
 		294293AC06AFD7177377287B /* Pods-message.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-message.debug.xcconfig"; path = "Pods/Target Support Files/Pods-message/Pods-message.debug.xcconfig"; sourceTree = "<group>"; };
 		5578D90B2EEF46DF61D7AE2F /* Pods-message.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-message.release.xcconfig"; path = "Pods/Target Support Files/Pods-message/Pods-message.release.xcconfig"; sourceTree = "<group>"; };
 		5581718E02652C8977020FD2 /* Pods_message.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_message.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		9101609A1C44A73F00206C93 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		9101609E1C44A9CB00206C93 /* FBLoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FBLoginViewController.swift; sourceTree = "<group>"; };
 		91193A691C4350F2002E4206 /* MessageTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MessageTableViewController.swift; sourceTree = "<group>"; };
 		91193A6B1C435210002E4206 /* Message.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Message.swift; sourceTree = "<group>"; };
@@ -56,7 +54,6 @@
 		91CEDF5C1C434611002DCAF2 = {
 			isa = PBXGroup;
 			children = (
-				9101609A1C44A73F00206C93 /* Default-568h@2x.png */,
 				91CEDF671C434611002DCAF2 /* message */,
 				91CEDF661C434611002DCAF2 /* Products */,
 				FA95CC1D2FB52B654E23926D /* Pods */,
@@ -170,7 +167,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				91CEDF731C434611002DCAF2 /* LaunchScreen.storyboard in Resources */,
-				9101609B1C44A73F00206C93 /* Default-568h@2x.png in Resources */,
 				91CEDF701C434611002DCAF2 /* Assets.xcassets in Resources */,
 				91CEDF6E1C434611002DCAF2 /* Main.storyboard in Resources */,
 			);

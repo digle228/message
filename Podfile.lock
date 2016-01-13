@@ -20,12 +20,14 @@ PODS:
     - FBSDKCoreKit
   - Parse (1.12.0):
     - Bolts/Tasks (~> 1.5)
+  - XCGLogger (3.2)
 
 DEPENDENCIES:
   - FBSDKCoreKit
   - FBSDKLoginKit
   - FBSDKShareKit
   - Parse
+  - XCGLogger
 
 SPEC CHECKSUMS:
   Bolts: a12663244b1d3351c738882e71902fc74db54f64
@@ -33,5 +35,6 @@ SPEC CHECKSUMS:
   FBSDKLoginKit: d893fcbb98d854496925e9ff73c67b896982d3c4
   FBSDKShareKit: e7577ee3adf80fc04fb656dd133fbb522250672b
   Parse: de2c52a9a1421b91ae7594ab8ce191afd184f19b
+  XCGLogger: da1f341f4bb8979db6e1df64232f04d9698402d4
 
 COCOAPODS: 0.39.0

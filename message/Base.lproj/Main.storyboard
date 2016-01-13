@@ -29,6 +29,9 @@
                             <constraint firstItem="zFn-YY-VDb" firstAttribute="centerY" secondItem="ngu-JQ-Ea5" secondAttribute="centerY" id="t2o-u6-I2I"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="fbLoginBu" destination="zFn-YY-VDb" id="KJv-2K-Io0"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="lZV-56-lIl" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>

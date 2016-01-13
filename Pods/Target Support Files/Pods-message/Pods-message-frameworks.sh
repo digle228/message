@@ -89,6 +89,7 @@ if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework "Pods-message/FBSDKLoginKit.framework"
   install_framework "Pods-message/FBSDKShareKit.framework"
   install_framework "Pods-message/Parse.framework"
+  install_framework "Pods-message/XCGLogger.framework"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework "Pods-message/Bolts.framework"
@@ -96,4 +97,5 @@ if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework "Pods-message/FBSDKLoginKit.framework"
   install_framework "Pods-message/FBSDKShareKit.framework"
   install_framework "Pods-message/Parse.framework"
+  install_framework "Pods-message/XCGLogger.framework"
 fi
